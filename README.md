@@ -1,0 +1,1 @@
+This is Quora based on BACKEND(REST) created by CRUD(Create,Read,Update,Delete) Operations. Here , I made Restful APIs(GET , POST , PATCH , DELETE) and redirect the responses to posts to make connectivity.
